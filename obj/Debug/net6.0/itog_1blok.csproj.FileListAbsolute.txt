@@ -1,0 +1,15 @@
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\bin\Debug\net6.0\itog_1blok.exe
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\bin\Debug\net6.0\itog_1blok.deps.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\bin\Debug\net6.0\itog_1blok.runtimeconfig.json
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\bin\Debug\net6.0\itog_1blok.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\bin\Debug\net6.0\itog_1blok.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.csproj.AssemblyReference.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.AssemblyInfoInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.AssemblyInfo.cs
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.csproj.CoreCompileInputs.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\refint\itog_1blok.dll
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.pdb
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\itog_1blok.genruntimeconfig.cache
+C:\Users\dvzor_79xyqb6\OneDrive\Documents\GB\Итог 1 блок\itog_1blok\obj\Debug\net6.0\ref\itog_1blok.dll
